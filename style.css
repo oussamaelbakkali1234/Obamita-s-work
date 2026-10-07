@@ -1,0 +1,85 @@
+body {
+    background: white;
+}
+
+.clock {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  color: #1d6fa5;
+  font-size: 14px;
+  font-family: Orbitron, monospace;
+  letter-spacing: 2px;  
+  z-index: 1000;
+}
+               
+/* Estil general */
+body {
+  font-family: Georgia, serif;
+  background-color: #ffffff;
+  color: #2c3e50;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  line-height: 1.7;
+}
+
+/* Títol principal amb recuadre */
+h1 {
+  color: #1d6fa5;
+  text-align: center;
+  font-size: 2.2em;
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 2px solid #a8c8e8;
+  border-radius: 10px;
+  background-color: #f0f7ff;
+}
+
+/* Subtítols */
+h2 {
+  color: #1d6fa5;
+  border-bottom: 1px solid #a8c8e8;
+  padding-bottom: 5px;
+  margin-top: 30px;
+}
+
+/* Paràgrafs */
+p {
+  margin-bottom: 15px;
+}
+
+/* Color Enllaços */
+a {
+  color: #1d6fa5;
+ 
+}
+
+/* Imatges */
+img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+/* Taules amb contorn blau suau */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  border: 2px solid #a8c8e8;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+th {
+  background-color: #e6f2ff;
+  color: #1d6fa5;
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #a8c8e8;
+}
+
+
+
+
+
